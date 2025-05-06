@@ -1,6 +1,6 @@
 ●タイトル：お客様の声を集めるアンケートフォーム
 
-●プレビュー：https://hidetoterasawa.github.io/20250115-Supermarket-survey-form/
+●プレビュー：https://hidetoterasawa.github.io/Supermarket-survey-form/
 
 ●概要：HTML・CSSの学習の為作成しました。
 このサイトは、お客様の声を集めるアンケートフォームです。
